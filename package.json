@@ -1,7 +1,7 @@
 {
   "name": "pre-proyecto-nm",
   "private": true,
-  "homepage": "https://nicolasmk0.github.io/Proy_Pre_React_NSM",
+  "homepage": "https://nicolasmk0.github.io/Proy_Pre_React_NSM/",
   "type": "module",
   "scripts": {
     "dev": "vite",
